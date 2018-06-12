@@ -1,5 +1,5 @@
 ### Summary
-###### A customer satisfation survey analysis I performed individually in Aug, 2017.
+###### A customer satisfaction survey analysis I performed individually in Aug, 2017.
 ###### * The survey data contains 58 variables and 2917 records.
 ###### * Customers are categoried as "Detractors", "Neutrals", and "Promoters" based on NPS(Net Promoter Score).
 ###### * Language: R
