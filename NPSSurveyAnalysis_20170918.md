@@ -23,7 +23,7 @@ library(ggplot2)
 ```
 ```{r load data, message=FALSE, warning=FALSE, results="hide"}
 set.seed(2)
-file <- "H:/Yiwen Johns/Projects/NPS/NPS_Data.csv"
+file <- "H:/Eve Johns/Projects/NPS/NPS_Data.csv"
 DT <- read.csv(file, header= T)
 DT <- data.frame(DT)
 ```
